@@ -1,0 +1,9 @@
+ name: Spells
+ version: 0.1
+ description: Cast Magic
+ author: Alexlaien
+ main: me.alexalien.MainClass
+ commands:
+   Spells:
+     description: Spells
+     usage: Do /Spell
